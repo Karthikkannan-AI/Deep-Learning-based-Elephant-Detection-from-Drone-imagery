@@ -50,12 +50,21 @@
 
 ### Evaluation of the Solution ###
 
+Test - 1 (Deep Learning based Elephant Detection from Drone imagery)
 
+<a href="https://youtu.be/4r1MxU-hWXI" target="_blank"><img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Elephant%20Detector%20Video%201.png"/></a>
+
+Test - 2 (Deep Learning based Elephant Detection from Drone imagery)
+
+<a href="https://youtu.be/vUKXscDaMro" target="_blank"><img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Elephant%20Detector%20Video%202.png"/></a>
+
+Test - 3 (Deep Learning based Elephant Detection from Drone imagery)
+
+<a href="https://youtu.be/xzJJUiIE0nk" target="_blank"><img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Elephant%20Detector%20Video%203.png"/></a>
 
 - - - -
 
 ## Conclusion ##
-
 
 
 - - - -

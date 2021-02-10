@@ -16,7 +16,7 @@
 
 ## Introduction ##
 
-
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Introduction.jpeg">
 
 - - - -
 

@@ -6,6 +6,7 @@
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/README.md#analysis-of-the-problem)
   * [Facts](https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/README.md#facts)
 * [Proposed Solution](https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/README.md#proposed-solution)
+  * [Solution Workflow]()
   * [Evaluating the Solution](https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/README.md#evaluation-of-the-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/README.md#conclusion)
 * [Contact Us](https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/README.md#contact-us)
@@ -23,15 +24,29 @@
 
 ### Analysis of the Problem ###
 
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Analysis%20of%20the%20Problem%201.jpeg">
+
+
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Analysis%20of%20the%20Problem%202.jpeg">
 
 
 ### Facts ###
 
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Fact%201.jpeg">
 
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Fact%202.jpeg">
 
 - - - -
 
 ## Proposed Solution ##
+
+### Solution Workflow ###
+
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Solution%20Workflow%201.jpeg">
+
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Solution%20Workflow%202.jpeg">
+
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Overview.jpeg">
 
 ### Evaluation of the Solution ###
 

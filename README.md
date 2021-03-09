@@ -66,6 +66,7 @@ Test - 3 (Deep Learning based Elephant Detection from Drone imagery)
 
 ## Conclusion ##
 
+This project is purely done for Demonstration purposes. We have showcased this project deploying multiple neural networks simultaneously for the detection of Elephants from Drone imagery.
 
 - - - -
 

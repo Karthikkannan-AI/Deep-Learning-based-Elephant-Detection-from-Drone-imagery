@@ -60,7 +60,7 @@ Test - 2 (Deep Learning based Elephant Detection from Drone imagery)
 
 Test - 3 (Deep Learning based Elephant Detection from Drone imagery)
 
-<a href="https://youtu.be/pet2uPt7QzI" target="_blank"><img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Elephant%20Detector%20Video%203.png"/></a>
+<a href="https://youtu.be/pet2uPt7QzI" target="_blank"><img src="hhttps://github.com/Karthikkannan-AI/Deep-Learning-based-Elephant-Detection-from-Drone-imagery/blob/main/resources/Elephant%20Detector%20Video%203.png"/></a>
 
 - - - -
 
